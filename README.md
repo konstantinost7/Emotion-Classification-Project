@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project was developed as part of Course COMP544DL at Msc Data Science UNIC in collaboration with Loucas Sialis & Neophytos Petrou
-and Y.
+This project was developed as part of Course COMP544DL at Msc Data Science UNIC in collaboration with Loucas Sialis & Neophytos Petrou.
 
 The objective of this project was to design, train, and evaluate a
 machine learning model capable of performing emotion classification from
